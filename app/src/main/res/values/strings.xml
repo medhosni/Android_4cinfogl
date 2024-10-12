@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorMixer</string>
+    <string name="enter_your_name">Enter your name PLS</string>
+    <string name="full_name">Full Name</string>
+    <string name="choose_2_colors">Choose 2 colors</string>
+    <string name="mix">MIX</string>
+</resources>
